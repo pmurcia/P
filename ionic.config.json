@@ -1,0 +1,7 @@
+{
+  "name": "hackingfood",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
